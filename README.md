@@ -14,7 +14,7 @@ This is a technical demonstration of Stellar blockchain integration into the XHI
 
 ## 📦 Tech Stack
 
-- **Frontend**: React + Freighter injected wallet
+- **Frontend**: React
 - **Backend**: Node.js, Express, MySQL
 - **Blockchain**: Stellar SDK, Horizon API (Testnet)
 
